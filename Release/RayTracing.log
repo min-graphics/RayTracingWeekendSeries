@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\53190\Desktop\新的一个\RayTracing\sphere.h(30,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\53190\Desktop\新的一个\RayTracing\sphere.h(31,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\53190\Desktop\新的一个\RayTracing\sphere.h(32,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  136 of 437 functions (31.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  RayTracing.vcxproj -> C:\Users\53190\Desktop\新的一个\RayTracing\Release\RayTracing.exe
